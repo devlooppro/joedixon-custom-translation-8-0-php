@@ -1,5 +1,5 @@
 {
-    "name": "laravel/translation-8-0-php",
+    "name": "joedixon-custom/translation-8-0-php",
     "description": "A tool for managing all of your Laravel translations",
     "type": "library",
     "license": "MIT",
