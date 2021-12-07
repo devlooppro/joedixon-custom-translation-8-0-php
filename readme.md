@@ -17,6 +17,9 @@ Translation management for your Laravel application.
 
 ## About Laravel Translation
 
+This package is for php 8.0 only -------------------
+
+
 Laravel Translation is a package for Laravel 5 which allows you full control
 over your translations when using [Laravel's
 localization](https://laravel.com/docs/5.7/localization) functionality.
